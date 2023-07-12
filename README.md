@@ -8,9 +8,6 @@
 - [ ] linux
 - [ ] macos
 
-![预览图](./images/index.png)
-
-![搜索结果](./images/search-results.png)
 
 ## 功能特性
 1. 自定义插件、插件商店
@@ -19,3 +16,12 @@
 4. 更多功能积极开发中。。。
 
 
+![预览图](./images/index.png)
+
+![搜索结果](./images/search-results.png)
+
+![剪贴板](./images/clipboard.png)
+
+![Markdown](./images/markdown.png)
+
+![JSON](./images/json.png)
