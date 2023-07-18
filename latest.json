@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "notes": "支持多语言安装",
+  "pub_date": "2023-07-18T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd2pCeUFxM3N5anZiNU1vcmNxUWtzZlZZTXJJd2p2em44cTRnVExZRVltVGp4aytTbm9LalI5T2FibkFBcmY2UmNGYnRpWW0yL21ZblE2cUpEY3RObndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5NjQ2MzMwCWZpbGU6aXBhXzAuMi4xX3g2NC1zZXR1cC5uc2lzLnppcApjWHk0MGsvbE5NTFM2Q0pVUWlrV2NKMEthK3pwa1Z5NEVxV3JEb0pYemR5WktnOGhnRGFxVjE3TURWdGVud3FCV1BVTTdYSE5Qd0drd3hMNDFoQkRBZz09Cg==",
+      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.1_x64-setup.exe"
+    }
+  }
+}
