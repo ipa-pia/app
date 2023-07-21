@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "支持多语言安装",
-  "pub_date": "2023-07-18T12:00:00Z",
+  "version": "0.2.3",
+  "notes": "1. 支持开机自启 \n2. 优化搜索建议",
+  "pub_date": "2023-07-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd20yREJKc2txeUZpUklkWjJidVNFNjRmaTA3MTFBbVVWQllmVGlsTXRhWksxRldwb3Y1RmNlK29yb3dSd3BrRnRJWlRTUldmaDlRNktqem9RbXEyaFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5NjUwMjg2CWZpbGU6aXBhXzAuMi4yX3g2NC1zZXR1cC5uc2lzLnppcAppOExrUU05eEtLS2pFZ0JFdXZ1aDJKUlZCTWxlL2ZqMWw2UXJvbERYZFh2RCsvWVhnZ1BBRU9FbEd2YjVwcHlNMElhTlRwc3Y2Z2cvbFIybUV1QU5BUT09Cg==",
-      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd3VoRDI4dW5nYTk2UldQNU5BQ29XRVRRVXJqTHlWWnhkSzB2b0ZROG1lVFdaNml2WDFSVHY3eFZwUGpocW5yMXhWbDg3cEtoTTF1Q0I2b2lYWVV3bkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg5OTAzNzcxCWZpbGU6aXBhXzAuMi4zX3g2NC1zZXR1cC5uc2lzLnppcApRN0hId3k1Sm1NckMvRW5GdDBDbThkajM5b2RoV1N6SGpvZXgzTGNTTWRsaHhtOFB4NWxrMytpR2tnY21QcmgvVWVtVVVpemV0YUc4YThYSHh0QmtEZz09Cg==",
+      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.3_x64-setup.exe"
     }
   }
 }
