@@ -11,5 +11,5 @@ export default defineUserConfig({
     lang: 'zh-CN',
     title: 'IPA',
     description: 'Intelligent Personal Assistance',
-    base: "/",
+    base: "/docs/",
 })
