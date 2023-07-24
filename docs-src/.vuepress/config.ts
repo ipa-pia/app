@@ -1,7 +1,7 @@
 /*
  * @Author: leoking
  * @Date: 2023-07-24 13:08:00
- * @LastEditTime: 2023-07-24 13:20:22
+ * @LastEditTime: 2023-07-24 13:47:12
  * @LastEditors: leoking
  * @Description: 
  */
@@ -12,4 +12,5 @@ export default defineUserConfig({
     title: 'IPA',
     description: 'Intelligent Personal Assistance',
     base: "/docs/",
+    dest: "${sourceDir}/../docs/"
 })
