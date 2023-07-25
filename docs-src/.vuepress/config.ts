@@ -1,16 +1,34 @@
 /*
  * @Author: leoking
  * @Date: 2023-07-24 13:08:00
- * @LastEditTime: 2023-07-24 13:47:12
+ * @LastEditTime: 2023-07-25 11:10:38
  * @LastEditors: leoking
  * @Description: 
  */
 import { defineUserConfig } from 'vuepress'
+import { tocPlugin } from '@vuepress/plugin-toc'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog";
+import { defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
     lang: 'zh-CN',
     title: 'IPA',
     description: 'Intelligent Personal Assistance',
     base: "/docs/",
-    dest: "${sourceDir}/../docs/"
+    dest: "${sourceDir}/../docs/",
+    plugins: [tocPlugin({}), autoCatalogPlugin({
+        level: 2,
+    })],
+    theme: defaultTheme({
+        navbar: [
+            {
+                text: '首页',
+                link: '/',
+            },
+        ]
+    }),
+    markdown: {
+        toc:false
+    }
 })
