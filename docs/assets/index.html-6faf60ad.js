@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2da6409b","path":"/shortcuts/","title":"快捷键","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"快捷键","description":"系统快捷键、用户自定义插件快捷键"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"shortcuts/index.md"}');export{t as data};
