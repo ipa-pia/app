@@ -1,7 +1,7 @@
 /*
  * @Author: leoking
  * @Date: 2023-07-24 13:08:00
- * @LastEditTime: 2023-07-25 11:10:38
+ * @LastEditTime: 2023-07-25 19:50:19
  * @LastEditors: leoking
  * @Description: 
  */
@@ -23,12 +23,17 @@ export default defineUserConfig({
     theme: defaultTheme({
         navbar: [
             {
-                text: '首页',
+                text: '文档',
                 link: '/',
             },
-        ]
+            {
+                text: '官网',
+                link: 'https://ipa.leoking.xyz',
+            },
+        ],
+        contributors: false
     }),
     markdown: {
-        toc:false
-    }
+        toc: false
+    },
 })
