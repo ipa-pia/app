@@ -5,34 +5,37 @@ description:
 
 # 智能个人助手
 
-基于tauri开发的一款桌面app，插件式机制，允许用户自定义插件
+基于tauri开发的一款跨平台桌面app，扩展性强。功能特性：
 
-支持平台：
-
-- [x] windows
-- [ ] linux
-- [ ] macos
-
-功能特性：
-
-1. 自定义插件、插件商店
+1. 插件商店、自定义插件
 2. 明亮、暗黑主题
 3. 内置：剪贴板、TODO、翻译、Markdown、JSON等功能
 4. 更多功能积极开发中。。。
 
-![预览图](./images/index.png)
+- [x] windows
+- [ ] linux (coming soon)
+- [ ] macos (coming soon)
 
-![搜索结果](./images/search-results.png)
+## 基础用法
+搜索框内输入关键字，软件给出搜索结果，目前支持的搜索范围为：
+1. 已安装插件
+2. 内置插件
+3. 操作系统已安装应用
+4. 根据用户搜索内容推荐的插件
 
-![剪贴板](./images/clipboard.png)
+- 打开插件后，搜索框的作用域缩小至插件级别，可实现插件内搜索、输入。
+- 清空搜索框后再次回退可退出插件，回到主界面
 
-![Markdown](./images/markdown.png)
-
-![JSON](./images/json.png)
+## 界面预览
+参见[预览图](./plugins.md)
 
 ## 快捷键
 参见[快捷键说明](./shortcuts/)
 
-## 如何自定义插件
+## 自定义插件
 
 使用官方提供的模版可快速完成插件的开发，具体使用方式参见[ipa-plugin-tmpl](https://github.com/xdewx/ipa-plugin-tmpl.git)
+
+- [ ] 发布插件需要注册开发者账号(coming soon)
+- [ ] 加载本地离线插件需要登录(待完善)
+
