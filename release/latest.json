@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "1. 优化首页推荐 \n2. 新版待办插件",
-  "pub_date": "2023-07-28T12:00:00Z",
+  "version": "0.2.6",
+  "notes": "1. 优化首页推荐 \n2. 新版待办插件\n 3. 修复已知问题",
+  "pub_date": "2023-07-28T22:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd2p1cVRVUzlqRFNJSVk1V0FxNUY3T1dwcm9Md3UwbkNqM2tJS1Q4eEhpMmlKUU9KWmp5dG8vZUs0bXFIL1RKWkN0ei9aV2d0R3I3Vng1UXhFZktOSUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwNTQyODkyCWZpbGU6aXBhXzAuMi41X3g2NC1zZXR1cC5uc2lzLnppcAoyNDV3WjRkenZOSkdsZnFndmk0S3oxOWVjZWxrbTJubzFaa3JuNXN0SWdMMngybWlXU1k5MXowM1cyeTZvRGIzZVZSSllrVUh2aE9XYmdSRzlEdGFCUT09Cg==",
-      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.5_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd3YvRUN2NkVXVkNFU1lVdG5uQytjZnhaOXFOeTdEWVNWQjNpdTdRaDB2N3VmeWdBemQ2NExSTHNXUE1EMm5xRE04Zi9TMkNuSk1IL2pTaXdZNEZzRmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwNTUzMjc0CWZpbGU6aXBhXzAuMi42X3g2NC1zZXR1cC5uc2lzLnppcAp1RXhCNTY2TnU0OGphSytDN282L1d6MmtiOXN0K3VNNzkyN0dyejh4NHluNlYrdUNJdWtLZXdLblU5YXc2SnVZeGFSNEZtMUg3U2RZeDQ0bDhvOFZCQT09Cg==",
+      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.6_x64-setup.nsis.zip"
     }
   }
 }
