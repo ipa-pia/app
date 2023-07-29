@@ -1,7 +1,7 @@
 /*
  * @Author: leoking
  * @Date: 2023-07-24 13:08:00
- * @LastEditTime: 2023-07-25 19:50:19
+ * @LastEditTime: 2023-07-29 19:15:02
  * @LastEditors: leoking
  * @Description: 
  */
@@ -36,4 +36,7 @@ export default defineUserConfig({
     markdown: {
         toc: false
     },
+    head: [
+        ["script", { "src": "../../assets/bd_analytics.js" }]
+    ]
 })
