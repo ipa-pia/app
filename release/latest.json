@@ -1,11 +1,11 @@
 {
-  "version": "0.2.12",
-  "notes": "1. 笔记支持上传文件 2. 修复若干已知BUG",
-  "pub_date": "2023-08-21T12:00:00Z",
+  "version": "0.2.13",
+  "notes": "1. 笔记支持上传文件 \n2. 修复若干已知BUG",
+  "pub_date": "2023-08-22T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "IHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd3M3ZlFNdGdW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tZLbG9lRERrTm8wbHBtRXpFWkN4WndEM2NzamZ0VG9lTkZmUUJHUVRub2FDV2liRGhNR243THFZa3pDTHJkMmdiRFU1M2Q0Tzh6b0YwUWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNjMyOTUwCWZpbGU6aXBhXzAuMi4xMl94NjQtc2V0dXAubnNpcy56aXAKeVVjVUtUL011STVpWWcvVS9UajZNM3Yvd3crSkpvMEFZdXhTK0drY3dvRFYraUVycXBwT2JtNHFwR3FlaTQ3MC9BWXc0U3V1TFVzT1oxZDJOanZZRGc9PQo=",
-      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.12_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd2tzQ2lZQnlOMDhOU3EwdlMwcy9DQXMvbVE1YUdoNy8vWVdhZDQycGcwcFh5U1JUVlJORUJBSzYxd2VzVEQ1TUNqbnpEN2FxaDlYc0JJVG1sbFUwdFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkyNjk2MDgzCWZpbGU6aXBhXzAuMi4xM194NjQtc2V0dXAubnNpcy56aXAKSVhyckRvL21QSmFwRE5kNE9zSXBiUW51cGhtNjNWMzdZZVNubWQrckN3cU84TGtTM1hpYmRQTGpRYWFITjNLSnZ4dXRRWGlUNTRRWEE5QW16MDB5Qmc9PQo=",
+      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.13_x64-setup.nsis.zip"
     }
   }
 }
