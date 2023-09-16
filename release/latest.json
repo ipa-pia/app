@@ -1,5 +1,5 @@
 {
-  "version": "0.2.16",
+  "version": "0.2.17",
   "notes": "1. 优化窗口分离逻辑 \n2. 修复已知BUG",
   "pub_date": "2023-09-08T12:00:00Z",
   "platforms": {
