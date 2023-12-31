@@ -1,11 +1,1 @@
-{
-  "version": "0.2.18",
-  "notes": "1. 支持大模型对话",
-  "pub_date": "2023-12-31T00:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd21wNHFUWGhrcjRBVHduVURmWHE5US8wdkJFaUl4TW5EcXROTFBOeFVRb0VrdWw4QkdKWU9Wd3BDQUVjam9Ud2ZrTUtCV280b0ZGNzhIaVZEaUhSWlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAzOTU4MTE4CWZpbGU6aXBhXzAuMi4xOF94NjQtc2V0dXAubnNpcy56aXAKRnlBMGlIQ3NPUmRQMm93aU5LbENtdFR4MFNRSzRlSGFnNE95cXNQMm9meHBhaTBVL1RQRndKV1JSaEpFWksyUng0N0dQUHU4V0xmYm1TYkdBSTlUQ3c9PQo=",
-      "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.18_x64-setup.nsis.zip"
-    }
-  }
-}
+{"version": "0.2.19", "notes": "1. \u4f18\u5316\u5927\u6a21\u578b\u4ea4\u4e92\u754c\u9762", "pub_date": "2024-01-01T01:31:09Z", "platforms": {"windows-x64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd2lTRklQOFZ2R0lvOWJVM2Jaamw5ZUllTU0vN3QySDNYamlvV29iWHNoK1JJUTU3bnE3S3RIREVjOXl2TmE5Y21LQnk5NlVjSmFQZmtXSksrUWZGQ3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MDQwMjczCWZpbGU6aXBhXzAuMi4xOV94NjQtc2V0dXAubnNpcy56aXAKTy9vSWF5SDdGL1FTc1g5K2FDTmplMlcxekNESTQyNm9tY0JQMDhkdm1SOFgyM2RPaEdUNWx3TVlmV2RIL0lkVW5pMk80dy9HeEhUNzQyR2tJT3h1RGc9PQo=", "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.19_x64-setup.nsis.zip"}}}
