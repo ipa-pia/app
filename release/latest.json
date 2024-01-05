@@ -3,7 +3,7 @@
     "notes": "1. 将大模型放在醒目位置\\n2. 优化交互体验",
     "pub_date": "2024-01-05T23:41:14Z",
     "platforms": {
-        "windows-x64": {
+        "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMHN5KzFlOGhmd3VNTlorM1FkRUMrN2NiYlVJRUttdE96R2dKcE1Qc2FWc3d4MG5vbzZ6S2xoZWNseHhLZ1hyaGU2VW9oT3plaCtEU0Qvc2plK3kySGMvaVMzaExvVlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0NDY5MjExCWZpbGU6aXBhXzAuMi4yMF94NjQtc2V0dXAubnNpcy56aXAKTUpVVlRJS3hBRzFBdklMdFJuY3MyMlFISjdNS1dXYlVDdXJEYWdoWWd5WXlOUnZ0M2MramRESUVCVXlEYmxDd3VTMGdrRFMwN2JtaXVMM01Xdk9qREE9PQo=",
             "url": "https://ipa.leoking.xyz/release/windows/ipa_0.2.20_x64-setup.nsis.zip"
         }
